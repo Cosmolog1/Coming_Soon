@@ -1,0 +1,53 @@
+* {
+  margin:0;
+}
+
+
+body {
+    background-image: url('/Image/fond_music.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+  }
+   
+
+h1 {
+    text-align: center;
+    color: #fce7b1;
+    font-size:70px;
+}
+
+h2 {
+  text-align : center;
+  color: #fce7b1;
+  font-size: 70px;
+}
+
+form {
+  text-align:center;
+  
+}
+
+main {
+  background-color: rgba(82, 167, 209, 0.3);
+
+
+}
+
+html {
+  font-family: civane-normal, sans-serif;;
+  font-weight: 800;
+  font-size: larger;
+}
+
+div {
+  color: #fce7b1;
+  position: absolute;
+  bottom : 0px;
+
+}
+
+.mail {
+  opacity: 0.5;
+}
